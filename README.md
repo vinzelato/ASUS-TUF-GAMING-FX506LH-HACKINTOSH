@@ -60,8 +60,7 @@ Before running OCLP, the following deep modifications have been made to this EFI
 For a detailed step-by-step visual on how this injection rules work, you can follow this excellent video guide by Hendra Hry:
 
 [![Watch Video Guide](https://youtu.be/tBcxSDWM0M0?si=vEwe9NDBtkK-v4Ic)
-<img width="942" height="1252" alt="airdrop" src="https://github.com/user-attachments/assets/602e1a38-e6c3-4940-b25a-8b050c987f8f" />
-<img width="1080" height="954" alt="About This Mac" src="https://github.com/user-attachments/assets/f913e950-f7aa-4ef9-962a-6cc18b3f7215" />
+
 
 ---
 
@@ -74,8 +73,8 @@ For a detailed step-by-step visual on how this injection rules work, you can fol
 
 ## Screenshots 📸
 
-![About This Mac](img/about-mac.png)
-![AirDrop and WiFi](img/wifi-airdrop.png)
+![About This Mac]<img width="942" height="1252" alt="airdrop" src="https://github.com/user-attachments/assets/602e1a38-e6c3-4940-b25a-8b050c987f8f" />
+![AirDrop and WiFi]<img width="1080" height="954" alt="About This Mac" src="https://github.com/user-attachments/assets/f913e950-f7aa-4ef9-962a-6cc18b3f7215" />
 
 ---
 
