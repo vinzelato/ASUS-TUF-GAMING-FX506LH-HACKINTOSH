@@ -59,7 +59,7 @@ Before running OCLP, the following deep modifications have been made to this EFI
 ### 3. Video Tutorial Guide 📺
 For a detailed step-by-step visual on how this injection rules work, you can follow this excellent video guide by Hendra Hry:
 
-[Watch Video Guide](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/tBcxSDWM0M0?si=vEwe9NDBtkK-v4Ic)
+[![Watch Video Guide](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/tBcxSDWM0M0?si=vEwe9NDBtkK-v4Ic)
 
 
 ---
